@@ -1,2 +1,2 @@
-# homework5
-SI 539 homework 5 Flexbox
+# homework_5
+Starter code for Homework 5 - Flex
